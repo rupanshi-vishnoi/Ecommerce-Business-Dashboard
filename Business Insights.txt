@@ -1,0 +1,10 @@
+Business Insights
+
+1. Total Revenue: 198.5
+2. Total Orders: 844
+3. Total Customers: 719
+4. Top Customer City: Sao Luis
+5. Most Used Payment Method: Credit Card
+6. Monthly Sales Trend: Peak Sales in March, Lowest Performance in September.
+7. Top Product Category: Informatica_Acessorios
+8. Business Recommendation: Focus more on popular products and high-performing cities. Prioritize the payment methods customers use most,        and offer discounts or targeted marketing in low-performing categories and cities to improve overall sales.
